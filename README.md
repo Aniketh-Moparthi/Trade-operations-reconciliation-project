@@ -30,3 +30,10 @@ Built an Excel-based trade operations workflow simulating post-trade reconciliat
 
 ## Workflow
 Internal Trades → Broker Trades → Reconciliation → Break Report → Dashboard
+
+## Dashboard Preview
+
+![Dashboard](dashboard.png)
+## Reconciliation Preview
+
+![Reconciliation](reconciliation.png)
