@@ -33,7 +33,7 @@ Internal Trades → Broker Trades → Reconciliation → Break Report → Dashbo
 
 ## Dashboard Preview
 
-![Dashboard](dashboard.png)
+![Dashboard](dashboard.PNG)
 ## Reconciliation Preview
 
 ![Reconciliation](reconciliation.png)
